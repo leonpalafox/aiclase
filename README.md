@@ -63,7 +63,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 1 - Introducción](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019.pptx)
 - [Clase 2 - Agentes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_02.pptx)
 - [Clase 3 - Agentes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_03.pptx)
-- [Clase 3 - Racionalidad](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_04.pptx)
+- [Clase 4 - Racionalidad](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_04.pptx)
 
 
 
