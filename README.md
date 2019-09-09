@@ -65,6 +65,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 3 - Agentes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_03.pptx)
 - [Clase 4 - Racionalidad](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_04.pptx)
 - [Clase 5 - Ambientes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_05.pptx)
+- [Clase 6 - Tipos de Agentes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_06.pptx)
+- [Clase 7 - Estructura de Agentes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_07.pptx)
+- [Clase 8 - Estructura de Agentes/Busqueda](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_08.pptx)
 
 
 
