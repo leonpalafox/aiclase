@@ -73,7 +73,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 11 - Estructura de Agentes/Busqueda](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_11.pptx)
 - [Clase 12 - Estructura de Agentes/Busqueda](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_12.pptx)
 - [Clase 13 - Busqueda Local](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_13.pptx)
-
+- [Clase 14 - Busqueda Local](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_14.pptx)
+- [Clase 15 - Optimización](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2019_15.pptx)
 
 
 
